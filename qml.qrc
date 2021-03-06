@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CompassUi.qml</file>
+        <file>compass.png</file>
+        <file>pointerdown.png</file>
+        <file>pointerup.png</file>
+    </qresource>
+</RCC>
